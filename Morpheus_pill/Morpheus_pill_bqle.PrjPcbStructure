@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=Morpheus_pill_bqle.SchDoc|Designator=Bluetooth|SchDesignator=Bluetooth|FileName=Morpheus_MCU.SchDoc|SymbolType=Normal|RawFileName=Morpheus_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Morpheus_pill_bqle.SchDoc|Designator=Motion|SchDesignator=Motion|FileName=Morpheus_IMU.SchDoc|SymbolType=Normal|RawFileName=Morpheus_IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Morpheus_pill_bqle.SchDoc|Designator=Power|SchDesignator=Power|FileName=Morpheus_NDO.SchDoc|SymbolType=Normal|RawFileName=Morpheus_NDO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Morpheus_pill_bqle.SchDoc
